@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Управление MusicBox</string>
+    <string name="network_unavailable">Сеть недоступна</string>
+    <string name="notification_text">Управляйте своим MusicBox</string>
+    <string name="stop_menu_item">Остановить</string>
+    <string name="select_device">Выберите ваше устройство:</string>
+    <string name="notification_title">Виджет для управления MusicBox</string>
+</resources>
