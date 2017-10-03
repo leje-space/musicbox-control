@@ -1,8 +1,8 @@
-# MusicBox Remote Control Widget (Mopidy HTTP Client)
+# Pi MusicBox Remote Control Widget (Mopidy HTTP Client)
 
 ## Android-виджет для управления вашим [Pi MusicBox](http://www.pimusicbox.com/)*
 
-Виджет размещается на домашнем экране телефона или планшета и позволяет управлять воспроизведением **Pi MusicBox**.
+Виджет размещается на домашнем экране вашего мобильного устройства и позволяет управлять воспроизведением **Pi MusicBox**.
 
 ![MusicBox Remote Control Widget](https://github.com/leje-space/musicbox-control/raw/master/images/preview.png)
 
